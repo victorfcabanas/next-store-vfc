@@ -1,0 +1,1 @@
+Store created using next js and snipcart
