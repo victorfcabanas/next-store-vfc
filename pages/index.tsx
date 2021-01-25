@@ -4,6 +4,8 @@ import { IProduct } from "../components/Product";
 import Footer from "../components/Footer";
 import Head from "next/head";
 
+import '../styles.scss';
+
 interface IIndexProps {
   products: IProduct[];
 }
